@@ -1,4 +1,4 @@
-# Introduction
+# Introduction about myself
 
 Hello everyone!. This is **Ravivarma M** from *PSG College of Technology, Coimbatore*.I am currenty pursuing my bachelors in Electronics and Communication Engineering . My areas of interests are as follows.
 1. Problem solving
